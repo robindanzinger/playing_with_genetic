@@ -1,0 +1,23 @@
+{
+  "name": "playing_with_genetic",
+  "version": "0.0.1",
+  "description": "playing around with javascript and genetic algos",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robindanzinger/playing_with_genetic/"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "mocha": "^5.2.0",
+    "must": "^0.13.4"
+  }
+}
